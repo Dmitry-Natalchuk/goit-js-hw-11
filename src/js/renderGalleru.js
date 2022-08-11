@@ -20,7 +20,7 @@ function renderGalleru (images) {
             <p class="info-item"><b>Likes</b>${likes}</p>
             <p class="info-item"><b>Views</b>${views}</p>
             <p class="info-item"><b>Comments</b>${comments}</p>
-            <p lass="info-item"><b>Downloads</b>${downloads}</p>
+            <p class="info-item"><b>Downloads</b>${downloads}</p>
          </div>
       </div>
     </a>`;
