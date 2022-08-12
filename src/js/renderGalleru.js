@@ -15,7 +15,7 @@ function renderGalleru (images) {
       return`
       <a class="gallery__link" href="${largeImageURL}">
       <div class="gallery-item" id="${id}">
-        <img class="gallery-item__img" src="${webformatURL}" alt="${tags}" loading="lazy"  width:"385" height:"220"/>
+        <img class="gallery-item__img" src="${webformatURL}" alt="${tags}" loading="lazy" />
          <div class="info">
             <p class="info-item"><b class = "info-item-list">Likes</b>${likes}</p>
             <p class="info-item"><b class = "info-item-list">Views</b>${views}</p>
