@@ -91,7 +91,7 @@ background-color: hsl(69, 100%, 50%);
   max-width: 1600px;
   grid-template-columns: repeat(auto-fit, minmax(383px, 1fr));
   grid-auto-rows: 300px;
-  grid-gap: 20px;
+  grid-gap: 10px;
   justify-content: center;
   padding-top: 20px;
   list-style: none;
@@ -99,7 +99,7 @@ background-color: hsl(69, 100%, 50%);
   margin-right: auto;
 }
 .gallery__link {
-  width: 455px;
+  width: 385px;
   height: 300px;
 }
 .gallery-item {
